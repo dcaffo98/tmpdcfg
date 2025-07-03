@@ -1,0 +1,1 @@
+{"_timestamp": 1751552066.0295978, "_runtime": 12026.803492235, "_step": 1042, "train/loss": 1.05, "train/grad_norm": 2.506765605485937, "train/learning_rate": 1.8510651694041702e-05, "train/epoch": 0.20066616163438067, "train/global_step": 1043}
